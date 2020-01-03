@@ -15,4 +15,4 @@ Exploratory Data Analysis 探索性数据分析
 ## NLP比赛
 |Name|Time|Bonus|
 |:---:|:---:|:---:|
-|IMDB评论剧透检测|2020年12月30日-1月29日|2k|
+|[IMDB评论剧透检测](https://god.yanxishe.com/20)|2020年12月30日-1月29日|2k|
