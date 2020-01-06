@@ -18,3 +18,4 @@ Exploratory Data Analysis 探索性数据分析
 |Name|Time|Bonus|
 |:---:|:---:|:---:|
 |[IMDB评论剧透检测](https://god.yanxishe.com/20)|2020年12月30日-1月29日|2k|
+|[观点型问题阅读理解](https://ai.ixm.gov.cn/#card3)|2019年12月20日-2020年6月|-|
