@@ -14,6 +14,7 @@ Exploratory Data Analysis 探索性数据分析
 |[智源：INSPEC 工业大数据质量预测赛](https://biendata.com/competition/bosch/)|2019年12月31日-2020年2月15日|10w|
 |[视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch)|2019年11月16日 08：00：00 ~ 2020年2月6日 23：59：59|3w|
 |[心跳异常检测](https://god.yanxishe.com/21)|2020年1月10日-2月09日|2k|
+|[职荐专场--真假职位信息检测 ](https://god.yanxishe.com/46)|2020年3月20日-4月19日|3k|
 
 ## NLP比赛
 |Name|Time|Bonus|
